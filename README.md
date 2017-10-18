@@ -22,7 +22,7 @@ The code files for chapters 01 to 12 are given. For chapter13 and 14, refer the 
 ## Related Products:
 * [Machine Learning with R - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r-second-edition?utm_source=github&utm_medium=repository&utm_content=9781784393908)
 
-* [Learning with R [Video]](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-machine-learning-r-video?utm_source=github&utm_medium=repository&utm_content=9781785883071)
+* [Getting Started with Machine Learning with R [Video]](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-machine-learning-r-video?utm_source=github&utm_medium=repository&utm_content=9781785883071)
 
 * [Machine Learning with R Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r-cookbook?utm_source=github&utm_medium=repository&utm_content=9781783982042)
 
