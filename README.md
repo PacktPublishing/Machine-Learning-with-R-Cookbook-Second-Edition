@@ -26,5 +26,3 @@ The code files for chapters 01 to 12 are given. For chapter13 and 14, refer the 
 
 * [Machine Learning with R Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r-cookbook?utm_source=github&utm_medium=repository&utm_content=9781783982042)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
