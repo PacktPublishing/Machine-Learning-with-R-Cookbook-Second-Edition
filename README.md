@@ -26,3 +26,7 @@ The code files for chapters 01 to 12 are given. For chapter13 and 14, refer the 
 
 * [Machine Learning with R Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r-cookbook?utm_source=github&utm_medium=repository&utm_content=9781783982042)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787284395">https://packt.link/free-ebook/9781787284395 </a> </p>
